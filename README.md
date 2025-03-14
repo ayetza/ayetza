@@ -3,9 +3,7 @@
 </h1>
 
 <p align="center">
-  <span style="color:rgb(187, 0, 255);">I AM AYETZA</span>  
-  <br>
-  <span style="color:rgb(255, 0, 149);">DIGITAL ARCHITECT | FUTURE BUILDER</span>  
+  <span style="color:rgb(255, 0, 149);">CSE | FUTURE BUILDER</span>  
 </p>
 
 

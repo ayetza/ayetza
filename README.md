@@ -58,9 +58,9 @@
 
 ## 🎛️ Key Projects
 
-🚀 **Oxtron Web** - Leading agent system development for a multi-agent urban mobility simulation in Python & Unity.
+🚀 **Oxtron Web** - Developed a full-stack carbon footprint tracker for restaurants using React (TS), Vite, and Supabase.
 
-💡 **Tecnológico de Monterrey** - Developed a full-stack carbon footprint tracker for restaurants using React (TS), Vite, and Supabase.
+💡 **URBAN FLOW** - Leading agent system development for a multi-agent urban mobility simulation in Python & Unity.
 
 🔮 **GC Services** - Built the official company website in React.js, handling frontend, backend, and brand identity.
 

@@ -8,11 +8,11 @@
 
 ## 👾 About Me
 
-> **"未來就是現在。"**
+> **"Embrace the unknown, for that is where innovation thrives."**
 
 🔹 **Name:** Ayetza  
 🔹 **Location:** All around the world  
-🔹 **Interests:** AI, Database, Tech Research, Art, MMA, Asian Culture  
+🔹 **Interests:** AI, Database, Tech Research, Art, MMA, Asian Culture, Nature  
 
 ---
 
@@ -87,9 +87,9 @@
 
 ## ⚡ Contact & Socials
 
-🌐 **Portfolio:** [YourWebsite.com](#)  
+🌐 **Portfolio:** [website.com](#)  
 🔗 **LinkedIn:** [Ayetza](https://www.linkedin.com/in/ayetza/)  
-🎶 **Synthwave Playlist:** [YourPlaylist](#)  
+🎶 **Synthwave Playlist:** [Playlist](#)  
 
 ---
 

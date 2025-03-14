@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:rgb(81, 0, 255);">🚀 AYEQUEEN 🚀</span>  
+  <span style="color:rgb(81, 0, 255);">🚀 - AYEQUEEN - 🚀</span>  
 </h1>
 
 <p align="center">

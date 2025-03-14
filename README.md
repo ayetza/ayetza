@@ -10,11 +10,9 @@
 
 > **"The future is now. Code is my canvas, and the city lights are my inspiration."**
 
-🔹 **Name:** [Your Name]  
-🔹 **Alias:** [Your Cool Cyber Handle]  
-🔹 **Location:** [Your City or 'Neon Metropolis']  
-🔹 **Occupation:** [Your Job Title]  
-🔹 **Interests:** Cyberpunk, AI, Synthwave, Blade Runner, Coding, Art  
+🔹 **Name:** Ayetza  
+🔹 **Location:** All around the world  
+🔹 **Interests:** AI, Database, Tech Research, Art, MMA, Asian Culture  
 
 ---
 
@@ -51,11 +49,13 @@
 
 ---
 
-## 🎛️ Projects
+## 🎛️ Key Projects
 
-🚀 **[Project Name]** - *A cyber-futuristic app*  
-💡 **[Project Name]** - *Neon UI Design showcase*  
-🔮 **[Project Name]** - *Synthwave Sound Generator*  
+🚀 **Oxtron Web** - Leading agent system development for a multi-agent urban mobility simulation in Python & Unity.
+
+💡 **Tecnológico de Monterrey** - Developed a full-stack carbon footprint tracker for restaurants using React (TS), Vite, and Supabase.
+
+🔮 **GC Services** - Built the official company website in React.js, handling frontend, backend, and brand identity.
 
 ---
 
@@ -88,8 +88,7 @@
 ## ⚡ Contact & Socials
 
 🌐 **Portfolio:** [YourWebsite.com](#)  
-📷 **Instagram:** [@yourhandle](#)  
-🐦 **Twitter/X:** [@yourhandle](#)  
+🔗 **LinkedIn:** [Ayetza](https://www.linkedin.com/in/ayetza/)  
 🎶 **Synthwave Playlist:** [YourPlaylist](#)  
 
 ---

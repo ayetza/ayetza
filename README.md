@@ -1,10 +1,13 @@
-<h1 align="center">🟣 Hello, Dev 🌌
-```
-                           ╱|、
-                          (˚ˎ 。7  
-                           |、˜〵          
-                          じしˍ,)ノ 
-```</h1>
+<h1 align="center">🟣 Hello, Dev 🌌</h1>
+
+<p align="center">
+  <pre>
+      ╱|、
+     (˚ˎ 。7  
+      |、˜〵          
+     じしˍ,)ノ
+  </pre>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=FF44CC&center=true&vCenter=true&width=550&lines=✨+المستقبل+هنا;🌆+未來就在這裡;🌌+The+Future+is+Now"/>
 </p>

@@ -17,8 +17,22 @@
 🔹 **Location:** [Your City or 'Neon Metropolis']  
 🔹 **Occupation:** [Your Job Title]  
 🔹 **Interests:** Cyberpunk, AI, Synthwave, Blade Runner, Coding, Art  
-🔹 **Languages & Tools:** Python, JavaScript, C++, React, Node.js  
-🔹 **Hobbies:** Cyber-Photography, Synthwave Music, VR, Hacking the Matrix  
+🔹 **Languages & Tools:**   
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40"/>
+</p>
 
 ---
 
@@ -56,4 +70,3 @@ OpenCV, TensorFlow Three.js, GSAP   MongoDB, SQL      Kali Linux
 > "Code like a neon samurai in the digital rain."
 
 ---
-# ayetza

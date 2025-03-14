@@ -1,4 +1,4 @@
-<h1 align="center">  🌌 ⣀⣀⣀⣀⡠⡤ Hello, Dev ⣀⣀⣀⣀⡠⡤ 🌌 </h1>
+<h1 align="center">🟣 Hello, Dev 🌌</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=FF44CC&center=true&vCenter=true&width=550&lines=✨+المستقبل+هنا;🌆+未來就在這裡;🌌+The+Future+is+Now"/>
@@ -12,7 +12,7 @@
 
 🔹 **Name:** Ayetza  
 🔹 **Location:** All around the world  
-🔹 **Interests:** AI, Database, Tech Research, Art, MMA, Asian Culture, Nature  
+🔹 **Interests:** AI, Database, Tech Research, Art, MMA, Asian Culture  
 
 ---
 
@@ -49,50 +49,15 @@
 
 ---
 
-## 🎛️ Key Projects
-
-🚀 **Oxtron Web** - Leading agent system development for a multi-agent urban mobility simulation in Python & Unity.
-
-💡 **Tecnológico de Monterrey** - Developed a full-stack carbon footprint tracker for restaurants using React (TS), Vite, and Supabase.
-
-🔮 **GC Services** - Built the official company website in React.js, handling frontend, backend, and brand identity.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayetza&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FF44CC&cache_seconds=86400" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayetza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayetza&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-### 🏆 **GitHub Achievements & Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayetza&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-### ⚡ **GitHub Activity**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayetza&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
-</p>
-
----
-
-## ⚡ Contact & Socials
-
-🌐 **Portfolio:** [website.com](#)  
-🔗 **LinkedIn:** [Ayetza](https://www.linkedin.com/in/ayetza/)  
-🎶 **Synthwave Playlist:** [Playlist](#)  
-
----
-
-> "Code like a neon samurai in the digital rain."
+## 🖋 ASCII Signature
+```plaintext
+░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓████████▓▒░▒▓████████▓▒░░▒▓██████▓▒░  
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░         ░▒▓█▓▒░          ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░         ░▒▓█▓▒░        ░▒▓██▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓████████▓▒░░▒▓██████▓▒░░▒▓██████▓▒░    ░▒▓█▓▒░      ░▒▓██▓▒░  ░▒▓████████▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░   ░▒▓█▓▒░         ░▒▓█▓▒░    ░▒▓██▓▒░    ░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░   ░▒▓█▓▒░         ░▒▓█▓▒░   ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░   ░▒▓████████▓▒░  ░▒▓█▓▒░   ░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░ 
+```
 
 ---

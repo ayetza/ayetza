@@ -49,9 +49,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FF44CC" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+### 🏆 **GitHub Achievements & Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+### ⚡ **GitHub Activity**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
 
 ---

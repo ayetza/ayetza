@@ -8,7 +8,7 @@
 
 ## 👾 About Me
 
-> **"The future is now. Code is my canvas, and the city lights are my inspiration."**
+> **"未來就是現在。"**
 
 🔹 **Name:** Ayetza  
 🔹 **Location:** All around the world  

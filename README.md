@@ -3,7 +3,7 @@
       ╱|、
      (˚ˎ 。7   
       |、˜〵          
-     じしˍ,)ノ
+     じしˍ,)ノ hello dev
   </pre>
 </p>
 <p align="center">

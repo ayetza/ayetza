@@ -1,9 +1,7 @@
-<h1 align="center">🟣 Hello, Dev 🌌</h1>
-
 <p align="center">
   <pre>
       ╱|、
-     (˚ˎ 。7   <h1 align="center">🟣 Hello, Dev 🌌</h1>
+     (˚ˎ 。7   
       |、˜〵          
      じしˍ,)ノ
   </pre>

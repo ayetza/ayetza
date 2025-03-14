@@ -9,6 +9,7 @@
 ⠀⠀⠀⠐⠿⣿⣿⣿⣿⡿⠇⠀⠀⠀HELLO DEV 
 ⠀⠀⠀⠀⠠⣿⣿⢻⣿⡇⠀⠀⠀⠀
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=FF44CC&center=true&vCenter=true&width=550&lines=✨+المستقبل+هنا;🌆+未來就在這裡;🌌+The+Future+is+Now"/>
 </p>

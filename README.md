@@ -1,14 +1,13 @@
+<h1 align="center">
+  <span style="color:rgb(81, 0, 255);">🚀 HELLO DEV 🚀</span>  
+</h1>
+
 <p align="center">
-  <pre>
-⠠⡶⠶⢤⣀⣠⣤⣤⣤⣀⣠⠶⠶⡆
-⠀⢿⣠⣾⣿⣿⣿⣿⣿⣿⣿⣦⣸⠃
-⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀
-⠠⢼⣿⡇⠰⣾⣿⣿⡇⡦⠀⣹⣿⠄
-⠀⢠⠿⣿⣶⣾⣿⣼⣿⣷⣿⠟⢥⠀
-⠀⠀⠀⠀⣨⣿⣭⣭⣽⣏⠀⠀⠀⠀
-⠀⠀⠀⠐⠿⣿⣿⣿⣿⡿⠇⠀⠀⠀HELLO DEV 
-⠀⠀⠀⠀⠠⣿⣿⢻⣿⡇⠀⠀⠀⠀
+  <span style="color:rgb(187, 0, 255);">I AM AYETZA</span>  
+  <br>
+  <span style="color:rgb(255, 0, 149);">DIGITAL ARCHITECT | FUTURE BUILDER</span>  
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=FF44CC&center=true&vCenter=true&width=550&lines=✨+المستقبل+هنا;🌆+未來就在這裡;🌌+The+Future+is+Now"/>

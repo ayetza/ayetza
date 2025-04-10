@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <span style="color:rgb(255, 0, 149);">CSE | FUTURE BUILDER</span>  
+  <span style="color:rgb(255, 0, 149);">CSE</span>  
 </p>
 
 
@@ -18,7 +18,7 @@
 > **"Embrace the unknown, for that is where innovation thrives."**
 
 🔹 **Name:** Ayetza  
-🔹 **Location:** All around the world  
+🔹 **Location:** 
 🔹 **Interests:** AI, Database, Tech Research, Art, MMA, Asian Culture, Nature  
 
 ---

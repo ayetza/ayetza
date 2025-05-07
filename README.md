@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:rgb(81, 0, 255);">🚀 - AYETZA - 🚀</span>  
+  <span style="color:rgb(81, 0, 255);">🚀 - A - 🚀</span>  
 </h1>
 
 <p align="center">
@@ -15,11 +15,7 @@
 
 ## 👾 About Me
 
-> **"Embrace the unknown, for that is where innovation thrives."**
-
-🔹 **Name:** Ayetza  
-🔹 **Location:** 
-🔹 **Interests:** AI, Database, Tech Research, Art, MMA, Asian Culture, Nature  
+> 
 
 ---
 
@@ -89,14 +85,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayetza&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
-
----
-
-## ⚡ Contact & Socials
-
-🌐 **Portfolio:** [website.com](#)  
-🔗 **LinkedIn:** [Ayetza](https://www.linkedin.com/in/ayetza/)  
-🎶 **Synthwave Playlist:** [Playlist](#)  
 
 ---
 
